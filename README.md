@@ -10,7 +10,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 </p>
 
 ### Technical Skills
-<div class='container'>
+<div style="display:flex;flex-direction:row;justify-content:center;">
 <table>
   <tr>
       <td><b>Programming Languages</b></td>
