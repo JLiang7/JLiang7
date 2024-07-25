@@ -24,8 +24,8 @@
     <td><b>Visualization</b></td>
     <td><img src='https://img.shields.io/static/v1?label=&message=Matplotlib&color=66b366&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAABsklEQVRIie2WPWsVQRRAz/WjtExCoq+QJCD4/A2vEAQFUZIqvyH4c2xiCgV7a1G7/IJgETGViiEPJCI20ehJsbu4LM7u7JpnldPNvDv3zJ3dN3fhnP9E5Aaqi8AGMAFuRsRKOb8P7AI7wPOImJ7JztQl9al6Yo3a73V+lLEL/ypdU7/5FxLiiiN1faj0kforkbhLbLl2c0ilSWmmWPW3upYrXTJxvAPEWhz7KEf8LCNZH7Hqk6YnGtJF4ANwqWuDERGVuLMa+AksR8THauJCI2AjRzqAy8CD+kRTPJmBtOJum3g8Q/FqfZB9ZaZQD4H5jNDvEXGlGjQrHsIEOMiIS7+E6n7m30N1qt4q191QP3fEv6+7mhXv9qh0DnitjiNiD7gDtHWmvTbxTg8xFM/2TSl/C9xukb9KZlHnLVpbXw7VcZljXI7rHKvXWkuw6KdDaJNvd56dumBxsZ+FfKp+Ua92istF63a0xR7y+1nSmnzTop8OYVrJUyQvkIh4DDwEvvbaccFF4PqAdX9QR+qWeW/7sbptxjPt83k7omht94BloEp+ALwDXgIvIuJT//LOmSGnUgPO30CIZK4AAAAASUVORK5CYII=&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=3F4F75&logo=plotly&logoColor=white'> 
 <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=Tableau&logoColor=white'> 
-<img src='https://img.shields.io/static/v1?label=&message=PowerBi&color=3F4F75&logo=https://camo.githubusercontent.com/0fa4b040c6dbb347696c5876d9d00bfff247fc90398933d4bc76f73b4ae3401f/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e45626f7430676e56415855454e7653564374526161414861454b3f7069643d496d674465742672733d31&logoColor=white'> 
-<img src='https://camo.githubusercontent.com/0fa4b040c6dbb347696c5876d9d00bfff247fc90398933d4bc76f73b4ae3401f/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e45626f7430676e56415855454e7653564374526161414861454b3f7069643d496d674465742672733d31'> </td>
+<img src='https://img.shields.io/static/v1?label=&message=PowerBi&color=3F4F75&logo=Power BI&logoColor=yellow'> 
+
   </tr>
 </table>
 
