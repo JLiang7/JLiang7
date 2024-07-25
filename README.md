@@ -27,7 +27,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=3F4F75&logo=plotly&logoColor=white'> 
 <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=Tableau&logoColor=white'> 
 <img src='https://img.shields.io/static/v1?label=&message=PowerBI&color=FFFF00&logo=PowerBI&logoColor=yellow'> 
-
+ <p alight="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
   </tr>
  <p alight="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
 </table>
