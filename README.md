@@ -29,7 +29,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 <img src='https://img.shields.io/static/v1?label=&message=PowerBI&color=FFFF00&logo=PowerBI&logoColor=yellow'> 
 
   </tr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" />
+ <p alight=right> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" />
