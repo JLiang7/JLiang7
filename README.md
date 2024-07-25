@@ -31,7 +31,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
 
 
 
