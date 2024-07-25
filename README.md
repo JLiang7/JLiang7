@@ -12,6 +12,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 ### Technical Skills
 <div style="display:flex;flex-direction:row;justify-content:center;">
 <table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" />
   <tr>
       <td><b>Programming Languages</b></td>
     <td><img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=003B57&logo=SQLite&logoColor=white'> </td>
@@ -27,12 +28,12 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=3F4F75&logo=plotly&logoColor=white'> 
 <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=Tableau&logoColor=white'> 
 <img src='https://img.shields.io/static/v1?label=&message=PowerBI&color=FFFF00&logo=PowerBI&logoColor=yellow'> 
- <p alight="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
+
   </tr>
- <p alight="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
+ 
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" />
+
 
 </div>
 
@@ -40,7 +41,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 
 
 <!--
-
+<p alight="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
 <tr>
     <td><b>Cloud Technologies</b></td>
     <td><img src='https://img.shields.io/static/v1?label=&message=AWS&color=FF9900&logo=amazonaws&logoColor=white'></td>
