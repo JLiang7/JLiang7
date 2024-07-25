@@ -14,7 +14,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 <table>
   <tr>
     <td><b>Programming Languages</b></td>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></th>
+    <td><img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=003B57&logo=SQLite&logoColor=white'> </td>
   </tr>
   <tr>
     <td><b>ML & Big Data</b></td>
@@ -33,7 +33,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 
 </div>
 
-<img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=003B57&logo=SQLite&logoColor=white'> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" />
 
 
 <!--
