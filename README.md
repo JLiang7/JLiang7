@@ -17,7 +17,6 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
     <td><img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=003B57&logo=SQLite&logoColor=white'> </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></td>
   </tr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" />
   <tr>
     <td><b>ML & Big Data</b></td>
     <td><img src='https://img.shields.io/static/v1?label=&message=scikit-learn&color=3499CD&logo=scikitlearn&logoColor=white'></td>
