@@ -10,7 +10,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 </p>
 
 ### Technical Skills
-
+<div style="display: flex; flex-direction: row;">
 <table>
   <tr>
       <td><b>Programming Languages</b></td>
@@ -31,9 +31,9 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
   </tr>
 </table>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliang7&show_icons=true&locale=en&layout=compact" alt="jliang7" /></p>
 
-
+</div>
 
 
 
