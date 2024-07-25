@@ -30,11 +30,10 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 
   </tr>
 </table>
-<td><img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=003B57&logo=SQLite&logoColor=white'> </td>
 
 </div>
 
-
+<img src='https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=003B57&logo=SQLite&logoColor=white'> 
 
 
 <!--
