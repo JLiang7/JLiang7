@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub!
 
 ### About
-
+I'm a data enthusiast with a special interest in data analyst with 6+ years of experience in turning complex data into clear insights and actionable strategies. I thrive on tackling complex and challenging problems.
 
 <p align="center">
 📄 <a href='googledrive to resume' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
