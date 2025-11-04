@@ -4,7 +4,7 @@
 I'm a data enthusiast with a special interest in data analyst with 6+ years of experience in turning complex data into clear insights and actionable strategies. I thrive on tackling complex and challenging problems.
 
 <p align="center">
-📄 <a href='googledrive to resume' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
+📄 <a href='https://jliang7.github.io' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
 🌐 <a href='https://jliang7.github.io' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
 📧 <a href='mailto: justinliang17@gmail.com' target='_blank'><b>Email</b></a>
 </p>
