@@ -5,7 +5,7 @@ I'm a data enthusiast with a special interest in data analyst with 6+ years of e
 
 <p align="center">
 📄 <a href='googledrive to resume' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
-🌐 <a href='websitehere' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
+🌐 <a href='https://www.jliang7.github.io' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
 📧 <a href='mailto: justinliang17@gmail.com' target='_blank'><b>Email</b></a>
 </p>
 
